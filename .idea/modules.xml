@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/thing-in-spring/dependency-injection/dependency-injection.iml" filepath="$PROJECT_DIR$/thing-in-spring/dependency-injection/dependency-injection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thing-in-spring/dependency-lookup/dependency-lookup.iml" filepath="$PROJECT_DIR$/thing-in-spring/dependency-lookup/dependency-lookup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thing-in-spring/ioc-container-overview/io-ccontainer-overview.iml" filepath="$PROJECT_DIR$/thing-in-spring/ioc-container-overview/io-ccontainer-overview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thing-in-spring/spring-bean/spring-bean.iml" filepath="$PROJECT_DIR$/thing-in-spring/spring-bean/spring-bean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-study.iml" filepath="$PROJECT_DIR$/spring-study.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thing-in-spring/thing-in-spring.iml" filepath="$PROJECT_DIR$/thing-in-spring/thing-in-spring.iml" />
+    </modules>
+  </component>
+</project>
